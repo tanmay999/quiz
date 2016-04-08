@@ -8,3 +8,4 @@ giving wong answer  leads to loosing the game and takes to another slide having 
 In this application their has been also the use of multithreading (in java) for the backround slideshow which makes it look even more 
 cooler quiz game.
 thank you for atleast watching this..!!
+![screenshot 8](https://cloud.githubusercontent.com/assets/18321499/14395226/15e0fdf6-fdee-11e5-93db-108d4756baee.png)
